@@ -61,6 +61,5 @@ body{
 
 .link:hover{
     background-color: var(--bgColor);
-/*     color: var(--accentColor); */
-    color: black;
+    color: var(--accentColor);
 }
